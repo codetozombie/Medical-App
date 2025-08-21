@@ -1,4 +1,4 @@
-﻿namespace Medical_App
+﻿    namespace Medical_App
 {
     partial class Form1
     {
